@@ -26,7 +26,7 @@
             <li><a class="certificate" href="https://www.udemy.com/certificate/UC-9ddfbad0-d512-4ac4-8503-dde742d33648/" target="_blank">Front End Web Development Ultimate Course 2021</a>, por Learn Tech Plus - UDEMY.</li>
             <li><a class="certificate" href="https://codigofacilito.com/user_quizzes/475747.pdf" target="_blank">CURSO PROFESIONAL DE JAVASCRIPT</a>, por Uriel Hernandez- Código Facilito.</li>
             <li><a class="certificate" href="https://www.udemy.com/certificate/UC-15868b43-065b-45ba-8b14-140cb689a63a/" target="_blank">Git and GitHub Projects: Project Based Learning (8 Projects)</a>, por Learnkart Technology Pvt Ltd - UDEMY.</li>
-
+            <li><a class="certificate" href="https://www.udemy.com/certificate/UC-a7c287f5-3205-43b6-9655-c9e33bc6f5a6/" target="_blank">Bootstrap From Scratch - Fast and Responsive Web Development</a>, por Mammoth Interactive, John Bura - UDEMY.</li>
         </ul>
     </div>
     <br>
