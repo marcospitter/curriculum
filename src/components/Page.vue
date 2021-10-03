@@ -1,7 +1,7 @@
 <template>
-    <div>
-        <div class="row bg-secondary p-3">
-            <div class="col-md-6">
+    <div class="container">
+        <div class="bg-secondary">
+            <div class="">
                 <div class="p-2 text-light">
                     <h1>Marcos Pitter, <span>Curriculum Vitae</span></h1>
                     <span>Front-End web developer - Trainee.</span><br>
@@ -26,7 +26,7 @@
                     </ul>
                 </div>
             </div>    
-            <div class="col-md-6 text-center">
+            <div class=" text-center">
                 <img src="https://placekitten.com/300/300" alt="Marcos Pitter"/>
             </div>
         </div>

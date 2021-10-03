@@ -1,5 +1,5 @@
 <template>
-  <div class="container bg-light">
+  <div class="bg-light">
     <Page></Page>
   </div>
 </template>
